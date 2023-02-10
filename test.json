@@ -1,3 +1,6 @@
 {
-    "dose work":"true"
+    "testsdk"{
+        "status": "1",
+        "url": "https://wsd-demo.netlify.app/android-test"
+      }
 }
